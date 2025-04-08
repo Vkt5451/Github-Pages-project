@@ -5,9 +5,11 @@
 >Hello World
  I would have never known that my journey to becoming a programmer and software engineerbegin with such a simple quote! I began to program in the summer of 2022 at my community college. At Folsom Lake College, I begin having aspirations in learning computer science!
 
+![Image of Folsom Lake College](flc_front_clouds2_slideshow1140x642.jpg)
+
 ```python
 def hello_world():
-    print("Hello, world!")
+    print("Hello, world and Folsom Lake College!")
 ```
 
 ## Feel free to click on these links!
@@ -16,10 +18,6 @@ def hello_world():
 
 ## Link to another section!
 [This_should_bring_you_a_few_lines_down](#next-section)
-
-
-
-
 
 
 
