@@ -4,7 +4,7 @@
 ## Where and When Did my Journey Begin?
 > Hello World
  
-I would have never known that my journey to becoming a programmer and software engineerbegin with such a simple quote! I began to program in the summer of 2022 at my community college. At Folsom Lake College, I begin having aspirations in learning computer science! Now I am a 3rd year Computer student at UC San Diego and I am excited for the rest of the journey! I enjoy working out, hiking, and nature walks!
+I would have never known that my journey to becoming a programmer and software engineerbegin with such a simple quote! I began to program in the summer of 2022 at my community college. At **Folsom Lake College**, I begin having aspirations in learning computer science! Now, I am a 3rd year Computer student at UC San Diego and I am excited for the rest of the journey! I enjoy working out, hiking, and nature walks!
 
 ![Image of Folsom Lake College](flc_front_clouds2_slideshow1140x642.jpg)
 
@@ -28,7 +28,7 @@ def hello_world():
 
 
 ## Next Section
-[Relative_link](README.md)
+[Relative link to README.md](README.md)
 
 
 This is my current task list:
@@ -39,5 +39,5 @@ This is my current task list:
 1. Finish LAB1
 2. Do 2 leetcode problems
 
-[x] Task 1
-[ ] Task 2
+1. [x] Task 1
+2. [ ] Task 2
