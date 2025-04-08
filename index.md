@@ -12,14 +12,13 @@ def hello_world():
     print("Hello, world and Folsom Lake College!")
 ```
 
-## Feel free to click on these links!
-[My LinkedIn](https://www.linkedin.com/in/vincent-trinh-3a9963277/)
-[My Github](https://github.com/Vkt5451)
-
 ## Link to another section!
 [This_should_bring_you_a_few_lines_down](#next-section)
 
-
+## Feel free to click on these links!
+[My LinkedIn](https://www.linkedin.com/in/vincent-trinh-3a9963277/)
+[My Github](https://github.com/Vkt5451)
+![Image of Vincent Trinh](vincent_profile.png)
 
 
 
@@ -37,8 +36,8 @@ This is my current task list:
 + Connect with my CSE110 Group
 + Do 2 leetcode problems
 
-Finish LAB1
-Do 2 leetcode problems
+1. Finish LAB1
+2. Do 2 leetcode problems
 
 [x] Task 1
 [ ] Task 2
