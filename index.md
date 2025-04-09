@@ -14,7 +14,7 @@ def hello_world():
 ```
 
 ## Link to Task Section!
-[Click think, it'll bring you to the task section](#task-section)
+[Click this, it'll bring you to the task section](#task-section)
 
 ## Feel free to click on these links!
 [My LinkedIn](https://www.linkedin.com/in/vincent-trinh-3a9963277/)  and   [My Github](https://github.com/Vkt5451)
