@@ -4,7 +4,7 @@
 ## Where and When Did my Journey Begin?
 > Hello World
 
-I would have never known that my journey to becoming a programmer and software engineerbegin with such a simple quote! I began to program in the summer of 2022 at my community college in Sacramento. At **Folsom Lake College**, I begin having aspirations in learning computer science! Now, I am a 3rd year Computer student at UC San Diego and I am excited for the rest of the journey! I enjoy working out, hiking, and nature walks! Lastly, my name is Vincent Trinh!
+I would have never known that my journey to becoming a programmer and software engineer would have began with such a simple quote from above! I began to code in the summer of 2022 at my community college in Sacramento. At **Folsom Lake College**, I began having aspirations in learning computer science! Now, I am a 3rd year Computer student at UC San Diego and I am excited for the rest of the journey! I enjoy working out, hiking, and nature walks! Lastly, my name is Vincent Trinh!
 
 ![Image of Folsom Lake College](flc_front_clouds2_slideshow1140x642.jpg)
 
